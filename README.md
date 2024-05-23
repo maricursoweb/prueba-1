@@ -10,8 +10,3 @@ Este es un repositorio de prueba.
 ## Hola
 
 [ir a google](https://www.google.com)
-
-
-  
-git config --global user.name "maricursoweb"
-git config --global user.email shiningfornobody@gmail.com
